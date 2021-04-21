@@ -285,3 +285,10 @@ margin: 5px 0 15px 0;
 }
 
 /* REACH OUT STYLES END */
+
+
+/* these two colors will override the ones above in .hero */
+.hero-secondary {
+  background-color: black;
+  color: red;
+}
